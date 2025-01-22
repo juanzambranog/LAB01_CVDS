@@ -3,7 +3,7 @@
 ## PARTE I (Trabajo Individual).
 
 1.	Crea un repositorio localmente.
-   ![alt text](main/img/image.png)
+   
 
     ![alt text](img\image-1.png)
 3. Agrega un archivo de ejemplo al repositorio, el README.md puede ser una gran opción.
