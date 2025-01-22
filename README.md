@@ -4,13 +4,13 @@
 
 1.	Crea un repositorio localmente.
 
-    ![alt text](image-1.png)
+    ![alt text](img\image-1.png)
 2. Agrega un archivo de ejemplo al repositorio, el README.md puede ser una gran opción.
 
-    ![alt text](image3.png)
+    ![alt text](img\image3.png)
 
 
-    ![alt text](image4.png)
+    ![alt text](img\image4.png)
 
 
     ![alt text](img\image.png)
