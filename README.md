@@ -104,14 +104,15 @@
    ![image](https://github.com/user-attachments/assets/53f3c8c7-6c55-4cd6-9384-4948b2f96e86)
 
 
-9.	Configura el correo en git local de manera correcta
+8.	Configura el correo en git local de manera correcta
 
       Enlazamos la cuenta del repositorio remoto con el git local para poder subir los cambios. 
 
       ![image](https://github.com/user-attachments/assets/eac79da8-024c-4df3-9b57-5b9dec14c4ee)
 
 
-   
+
+9. Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).   
 
 
 
