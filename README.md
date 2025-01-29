@@ -121,3 +121,5 @@
 
 
     ![alt text](img/image-11.png)
+
+    con la imagen anterior verificamos que se actualizaron los cambios correctamente.
