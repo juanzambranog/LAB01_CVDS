@@ -114,7 +114,10 @@
 
 9. Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).   
 
+    Se actualizan los cambios y se verifica que todo este bien.
 
 
+    ![alt text](img/image-10.png)
 
 
+    ![alt text](img/image-11.png)
